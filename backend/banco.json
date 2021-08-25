@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "Leonardo",
+      "mensagem": "Seja bem vindo ao nosso Bloq"
+    },
+    {
+      "id": 2,
+      "nome": "Wheslley",
+      "mensagem": "Esta postagem foi atualizada!"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos",
+      "mensagem": "Esta é minha primeira postagem!"
+    },
+    {
+      "id": 4,
+      "nome": "Gabriel",
+      "mensagem": "Esta é uma nova postagem!"
+    },
+    {
+      "id": 5,
+      "nome": "Pedro",
+      "mensagem": "Texto novo!"
+    },
+    {
+      "id": 6,
+      "nome": "Wheslley Rimar Bezerra",
+      "mensagem": "Este é um teste do POST"
+    },
+    {
+      "id": 7,
+      "nome": "Teste 2",
+      "mensagem": "Teste Teste Teste"
+    },
+    {
+      "id": 8,
+      "nome": "Nova Mensagem",
+      "mensagem": "Teste Novamente"
+    },
+    {
+      "nome": "Meu Nome",
+      "mensagem": "Aqui eu peço para a pessoa rodar.",
+      "id": 9
+    }
+  ]
+}
