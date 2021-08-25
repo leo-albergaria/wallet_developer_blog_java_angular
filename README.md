@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/130829651-3544eccd-3a0f-4084-b3ba-3c3a12e6d082.png" align="left" height="150px" width="150px">
+    <h1># Desenvolvendo seu blog com as tecnologias de Java e Angular</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Neste projeto você terá o desefio de construir uma API com json-server e consuma os dados em um feed de mensagens desenvolvido em Angular.
     </p>
 </p>      
 
